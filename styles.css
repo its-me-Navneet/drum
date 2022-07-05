@@ -1,12 +1,14 @@
 
  body {
   text-align: center;
-  background-color: #283149;
+  background: rgb(134,124,28);
+  background: linear-gradient(0deg, rgba(134,124,28,1) 0%, rgba(218,198,24,1) 5%, rgba(62,200,46,1) 54%);
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: #DBEDF3; 
+  padding-right: 52px;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
